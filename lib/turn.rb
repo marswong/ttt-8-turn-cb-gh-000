@@ -26,6 +26,6 @@ def position_taken?(board, index)
   end
 end
 
-def move(board, pos, charm)
-  board[pos] = charm
+def move(board, pos, char)
+  board[pos] = char
 end
