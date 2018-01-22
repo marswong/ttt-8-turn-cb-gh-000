@@ -29,3 +29,7 @@ end
 def move(board, pos, char)
   board[pos] = char
 end
+
+def turn
+  
+end
